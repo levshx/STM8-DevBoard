@@ -9,6 +9,7 @@ The repository contains schematic, board view, sample programs, zero-template of
 </p>
 <p align="center">
   <img src="docs/top2d.svg" style="transform: rotate(180deg); max-width: 200px;"/>
+</p>
+<p align="center">
   <img src="docs/bottom2d.svg" style="transform: rotate(180deg); max-width: 200px;"/>
 </p>
-
