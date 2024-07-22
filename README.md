@@ -4,8 +4,11 @@ TODO (LANGUAGES BUTTONS)
 
 STM8 Development Board based on STM8S003K3TxC. 
 
-The repository contains schematic, board view, sample programs, zero-template of the project. 
+Supported UART2Serial chips CH340B, CH340C, CH340G
 
+The repository contains schematic, board view, sample programs, zero-template of the project. 
+Current version: `0.1`
+release
 
 TODO (PINOUT DIAGRAM)
 
