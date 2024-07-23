@@ -1,8 +1,10 @@
 # STM8-DevBoard
 
 Current version: `0.1`
+
 STM8 Development Board based on STM8S003K3TxC. 
-The repository contains schematic, board view, sample programs, zero-template of the project. 
+
+The repository contains schematic, pinout diagram, board view, sample programs, zero-template of the project. 
 
 
 TODO (PINOUT DIAGRAM)
