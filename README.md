@@ -12,3 +12,11 @@ The repository contains schematic, pinout diagram, board view, sample programs, 
   <img src="readme/STM8_DevBoard PinoutDiagram.png" />
 </p>
 
+## Fanciful
+
+<p align="center">
+  <img src="STM8_DevBoard_v0.1 (STM8S003K3T6C)\docs\soldering.jpg" />
+</p>
+<p align="center">
+  <img src="STM8_DevBoard_v0.1 (STM8S003K3T6C)\docs\stlink.jpg" />
+</p>
