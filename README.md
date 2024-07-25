@@ -2,7 +2,7 @@
 
 Current version: `0.1`
 
-STM8 Development Board based on STM8S003K3TxC. 
+STM8 Development Board based on STM8S003K3TxC. (Just like STM8SVLDISCOVERY without internal ST-Link)
 
 The repository contains schematic, pinout diagram, board view, sample programs, zero-template of the project. 
 
