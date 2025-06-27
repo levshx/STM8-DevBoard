@@ -1,5 +1,5 @@
 {
-  "name": "EmbededIDE_Beeper_Blink",
+  "name": "EmbededIDE_USB_COM_PING_PONG",
   "type": "C51",
   "dependenceList": [],
   "srcDirs": [],
