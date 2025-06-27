@@ -126,8 +126,10 @@ void main(void)
   */
   UART_INIT((uint32_t)115200, UART_WORDLENGTH_8D, UART_STOPBITS_1, UART_PARITY_NO, UART_SYNCMODE_CLOCK_DISABLE, UART_MODE_TXRX_ENABLE);
 
+  
   /* Output a message on Hyperterminal using printf function */
   printf("\n" UART_NAME " Example :retarget the C library printf()/getchar() functions to the UART\n");
+
 
   while (1)
   {
